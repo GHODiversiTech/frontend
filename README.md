@@ -1,1 +1,3 @@
-# frontend
+# GHODiversiTech
+
+Frontend for GHODiversiTech
